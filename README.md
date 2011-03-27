@@ -3,7 +3,7 @@
 This project does the following:
 
 * Generates a couple of square waves, one for each channel
-** The fundamental pitch is concert A (440Hz), but the channels have been slightly de-tuned just for fun
+  * The fundamental pitch is concert A (440Hz), but the channels have been slightly de-tuned just for fun
 * Sends each wave to a Delta-Sigma DAC
 * Sends the output of each DAC to a single channel on the Audio Wing
 
