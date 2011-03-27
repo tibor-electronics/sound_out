@@ -1,10 +1,11 @@
 # VHDL Project for Papilio One Audio Wing Sanity Check
 
-This project:
+This project does the following:
 
-* Generates a square wave at 440Hz (concert A)
-* Sends the wave to a Delta-Sigma DAC, and
-* Sends the output of the DAC to a single channel on the Audio Wing
+* Generates a couple of square waves, one for each channel
+** The fundamental pitch is concert A (440Hz), but the channels have been slightly de-tuned just for fun
+* Sends each wave to a Delta-Sigma DAC
+* Sends the output of each DAC to a single channel on the Audio Wing
 
 ## Links
 
