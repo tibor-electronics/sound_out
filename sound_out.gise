@@ -102,12 +102,10 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1301193160" xil_pn:in_ck="-8086054198928399648" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="4007357521171999155" xil_pn:start_ts="1301193154">
+    <transform xil_pn:end_ts="1301195063" xil_pn:in_ck="-8086054198928399648" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="4007357521171999155" xil_pn:start_ts="1301195056">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
-      <status xil_pn:value="InputChanged"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="SoundOut.lso"/>
       <outfile xil_pn:name="SoundOut.ngc"/>
@@ -122,31 +120,23 @@
       <outfile xil_pn:name="webtalk_pn.xml"/>
       <outfile xil_pn:name="xst"/>
     </transform>
-    <transform xil_pn:end_ts="1301192669" xil_pn:in_ck="-4480321233387866732" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4278364845846576313" xil_pn:start_ts="1301192669">
+    <transform xil_pn:end_ts="1301194253" xil_pn:in_ck="-4480321233387866732" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4278364845846576313" xil_pn:start_ts="1301194252">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
-      <status xil_pn:value="InputChanged"/>
     </transform>
-    <transform xil_pn:end_ts="1301193164" xil_pn:in_ck="2549439277209494075" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2006385073802268337" xil_pn:start_ts="1301193160">
+    <transform xil_pn:end_ts="1301195068" xil_pn:in_ck="2549439277209494075" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-2006385073802268337" xil_pn:start_ts="1301195063">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
-      <status xil_pn:value="OutOfDateForPredecessor"/>
-      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="SoundOut.bld"/>
       <outfile xil_pn:name="SoundOut.ngd"/>
       <outfile xil_pn:name="SoundOut_ngdbuild.xrpt"/>
       <outfile xil_pn:name="_ngo"/>
       <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1301193168" xil_pn:in_ck="2549439277209494076" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1697458369411087007" xil_pn:start_ts="1301193164">
+    <transform xil_pn:end_ts="1301195071" xil_pn:in_ck="2549439277209494076" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1697458369411087007" xil_pn:start_ts="1301195068">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
-      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
-      <status xil_pn:value="InputChanged"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="SoundOut.pcf"/>
       <outfile xil_pn:name="SoundOut_map.map"/>
@@ -158,12 +148,9 @@
       <outfile xil_pn:name="SoundOut_usage.xml"/>
       <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1301193192" xil_pn:in_ck="-6223355422001877163" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1301193168">
+    <transform xil_pn:end_ts="1301195096" xil_pn:in_ck="-6223355422001877163" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1301195071">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
-      <status xil_pn:value="OutOfDateForPredecessor"/>
-      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="SoundOut.ncd"/>
       <outfile xil_pn:name="SoundOut.pad"/>
       <outfile xil_pn:name="SoundOut.par"/>
@@ -175,10 +162,9 @@
       <outfile xil_pn:name="SoundOut_par.xrpt"/>
       <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
     </transform>
-    <transform xil_pn:end_ts="1301193203" xil_pn:in_ck="4370589325215165988" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1301193192">
+    <transform xil_pn:end_ts="1301195107" xil_pn:in_ck="4370589325215165988" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1301195096">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="SoundOut.ut"/>
       <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
       <outfile xil_pn:name="soundout.bgn"/>
@@ -188,12 +174,9 @@
       <outfile xil_pn:name="webtalk.log"/>
       <outfile xil_pn:name="webtalk_pn.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1301193192" xil_pn:in_ck="2549439277209493944" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1301193189">
+    <transform xil_pn:end_ts="1301195096" xil_pn:in_ck="2549439277209493944" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1301195093">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForInputs"/>
-      <status xil_pn:value="OutOfDateForPredecessor"/>
-      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="SoundOut.twr"/>
       <outfile xil_pn:name="SoundOut.twx"/>
       <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
