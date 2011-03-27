@@ -1,0 +1,4 @@
+# Crystal Clock - use 32MHz onboard oscillator
+NET "clock" LOC="P89" | IOSTANDARD = LVCMOS25 | PERIOD = 31.25ns;
+
+NET "analog_out" LOC="P22";

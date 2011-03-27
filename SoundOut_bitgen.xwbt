@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Kevin Lindsey\Projects\sound_out\SoundOut.ncd
+OUTFILE=C:\Users\Kevin Lindsey\Projects\sound_out\SoundOut.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4vq100
+WORKINGDIR=C:\Users\Kevin Lindsey\Projects\sound_out
+LICENSE=WebPack
+USER_INFO=0_0_652
