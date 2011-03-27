@@ -9,7 +9,7 @@ use ieee.std_logic_unsigned.all;
 entity SoundOut is
 	port(
 		clock: in std_logic;
-      audio_left, audio_right: out std_logic
+		audio_left, audio_right: out std_logic
 	);
 end SoundOut;
 
